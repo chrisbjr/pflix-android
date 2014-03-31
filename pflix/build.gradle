@@ -22,5 +22,6 @@ dependencies {
     compile 'com.android.support:gridlayout-v7:19.0.1'
     compile 'com.android.support:support-v4:19.0.1'
     compile 'com.actionbarsherlock:actionbarsherlock:4.4.0@aar'
+    compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
